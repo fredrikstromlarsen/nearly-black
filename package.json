@@ -1,6 +1,7 @@
 {
     "name": "nearly-black",
     "displayName": "Nearly Black",
+    "publisher": "rufuswein",
     "description": "High Contrast Minimal Vibrant Dark Theme for Visual Studio Code",
     "version": "0.0.1",
     "engines": {
