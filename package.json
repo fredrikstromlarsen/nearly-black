@@ -1,0 +1,21 @@
+{
+    "name": "nearly-black",
+    "displayName": "Nearly Black",
+    "description": "High Contrast Minimal Vibrant Dark Theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nearly Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nearly Black-color-theme.json"
+            }
+        ]
+    }
+}
