@@ -1,22 +1,33 @@
 {
-    "name": "nearly-black",
-    "displayName": "Nearly Black",
-    "publisher": "fssl",
-    "description": "High Contrast Minimal Vibrant Dark Theme for Visual Studio Code",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.60.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Nearly Black",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Nearly Black-color-theme.json"
-            }
-        ]
-    }
+	"name": "nearly-black",
+	"displayName": "Nearly Black",
+	"publisher": "fssl",
+	"description": "Minimal Vibrant Dark, Nearly Black, Theme",
+	"version": "0.1.0",
+	"keywords": [
+		"dark",
+		"vibrant",
+		"black",
+		"high contrast",
+		"theme"
+	],
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Nearly Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Nearly Black-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fredrikstromlarsen/nearly-black.git"
+	}
 }
