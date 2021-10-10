@@ -1,5 +1,7 @@
 # Nearly Black - Vibrant Dark Theme for Visual Studio Code
 
+Something weird happened to the screenshot utility, some code is wrapped incorrectly and some overlapping.
+
 ![](./screenshots/c.png)
 ![](./screenshots/cpp.png)
 ![](./screenshots/js.png)
